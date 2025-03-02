@@ -48,7 +48,8 @@ RUN pip install --no-cache-dir \
     pandas \
     matplotlib \
     scipy \
-    scikit-learn 
+    scikit-learn \
+    h5py \
 
 # Set working directory
 WORKDIR /workspace

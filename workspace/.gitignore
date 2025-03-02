@@ -1,2 +1,4 @@
 *.raw
 adap_0_bottle_big.raw
+segmentation_*/
+backup/
